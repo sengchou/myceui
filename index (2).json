@@ -1,0 +1,14 @@
+{
+  "sites": [
+    {
+      "key": "huangse",
+      "name": "黄色仓库",
+      "type": 3,                  // drpy 类型固定 3
+      "api": "./huangse.js",      // 相对路径（同目录）
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+    // 加更多源...
+  ]
+}
